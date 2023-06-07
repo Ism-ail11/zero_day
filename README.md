@@ -10,7 +10,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 * Who wrote Vagrant
 
-* What is Ubuntu# Vagrant - or - how to code in your local computer
+* ihat is Ubuntu# Vagrant - or - how to code in your local computer
 
 # Learning Objectives
 
